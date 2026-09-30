@@ -1,0 +1,119 @@
+/** ゼロ */
+span.z{
+    background-color: white;
+}
+/** 1 */
+span.i{
+    background-color: lemonchiffon;
+}
+/** 2 */
+span.n{
+    background-color: lightgreen;
+}
+/** 3 */
+span.s{
+    background-color: darkseagreen;
+}
+
+/** 10台 */
+span.ju{
+    background-color: lightsteelblue;
+}
+
+/** 20台 */
+span.niju{
+    background-color: lavender;
+}
+
+/** 30台 */
+span.sanju{
+    background-color: lemonchiffon;
+}
+
+/** 40台 */
+span.yonju{
+    background-color: lightgreen;
+}
+
+/** 50台 */
+span.goju{
+    color: white; 
+    background-color: forestgreen;
+}
+
+/** 休日 */
+span.kyu{
+    background-color: lightpink;
+}
+
+/** 赤色 */
+span.aka{
+    background-color: lightpink;
+}
+
+#headMenu li{
+  /** width: 400px; */
+  margin: 0;
+  padding 0;
+  display: inline;
+  line-height: 1;
+  border-style: none;
+}
+
+H1{
+  color: #ffffff;
+  text-align: left;
+  vertical-align: bottom;
+  font-size: 150%;
+  font-weight: 800;
+  margin: 1em 0.5em 0px 0.5em;
+  padding: 0.2em 0.2em;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #666666;
+  background-color: royalblue;
+}
+
+H2{
+  color: #ffffff;
+  text-align: left;
+  font-size: 100%;
+  font-weight: 800;
+  margin: 1em 0.5em 0px 0.5em;
+  padding: 0.2em 0.2em;
+  border-style: solid;
+  border-width: 1px 1px 0px 1px;
+  border-color: #666666;
+  background-color: royalblue;
+}
+
+H3{
+  color: royalblue;
+  text-align: left;
+  font-size: 100%;
+  font-weight: 800;
+  margin: 1em 0.5em 0px 0.5em;
+  padding: 0.2em 0.2em;
+  border-style: solid;
+  border-width: 1px 0px 0px 1px;
+  border-color: #666666;
+}
+
+H4{
+  color: royalblue;
+  text-align: left;
+  font-size: 100%;
+  font-weight: 700;
+  margin: 1em 0.5em 0px 0.5em;
+  padding: 0.2em 0.2em;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #666666 #666666 #333333 #666666;
+  background-color: #d6c188;
+}
+
+p {
+  margin: 1em 0.5em 0.5em 0.5em;
+  padding: 0.2em 0.2em;
+}
+
